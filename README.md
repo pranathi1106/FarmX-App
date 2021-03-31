@@ -1,6 +1,6 @@
 # FarmX
 
-An Flutter app 
+A Flutter app 
 
 AI Powered Assistant for Farmers
 
